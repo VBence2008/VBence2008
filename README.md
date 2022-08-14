@@ -3,6 +3,6 @@
 - 📫 You can reach me via e-mail, but the best option is to join my Discord or Guilded server: https://discord.gg/y628cyE3d9 https://www.guilded.gg/i/knDM8loE
 - 👀 I also have a YouTube channel where I rarely upload videos: https://www.youtube.com/channel/UCIPy6JqEj4FqSXfG9Q4e_3A
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrumpyPingu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VBence2008&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrumpyPingu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VBence2008&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
