@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @VBence2008, but my full name is Veress Bence Gyula (or Bence Gyula Veress in English), born in late 2008
+- 👋 Hi, I’m @VBence2008, but my full name is Veress Bence Gyula (or Bence Gyula Veress in English), born in late 2008.
 - 🌱 I mostly use C++ but I have custom real (conlang) and programming languages.
-- 📫 You can reach me via e-mail: veress.bence.gyula@gmail.com
+- 📫 You can reach me via e-mail: veress.bence.gyula@gmail.com.
+- 🛑 My projects are not available on GitHub at the moment.
